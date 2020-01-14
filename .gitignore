@@ -1,0 +1,18 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/.vs/SetupWizard
+/packages
+/SetupWizard/bin
+/SetupWizard/obj
+/SetupWizard.Model/bin/Debug
+/SetupWizard.Model/obj/Debug
+/Uninstaller/bin
+/Uninstaller/obj
+/Windows.Forms/obj
+/Windows.Utils/bin/Release
+/Windows.Utils/obj/Debug
+/Windows.Utils/obj/Release
+/Windows.Utils.UI/obj
+/Windows.Utils/obj/x86/Debug
